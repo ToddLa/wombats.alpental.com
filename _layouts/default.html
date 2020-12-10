@@ -21,7 +21,7 @@
       <h2>Pages</h2>
 <ul>
     {% for p in site.pages %}
-      {% if p.title != blank %}
+      {% if p.title %}
         <li><a href="{{ p.url }}">{{ p.title }}{% if p.url == page.url %}***{% endif %}</a></li>
       {% endif %}
     {% endfor %}
