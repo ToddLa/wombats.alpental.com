@@ -11,11 +11,11 @@
   <body>
     <header class="page-header" role="banner">
       
-      <h2 class="project-tagline">
+      <h1 class="project-name">
         <img src="wombat_sign.png" style="height:3em"/>
-        {{ page.description | default: site.description | default: site.github.project_tagline }}
+        {{ site.title }}
         <img src="wombat_sign.png" style="height:3em"/>
-      </h2>
+      </h1>
 <!--
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
