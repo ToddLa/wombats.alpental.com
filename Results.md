@@ -2,7 +2,7 @@
 
 ## 2021
 
-|# |Team                         |Total|
+|  |Team                         |Total|
 |--|-----------------------------|------|
 |1 |VSM Explosion                |28    |
 |2 |Czech Mates                  |27    |
