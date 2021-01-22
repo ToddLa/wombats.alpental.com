@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Team Wombat
 ---
 
 # Team Wombat
