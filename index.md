@@ -12,5 +12,5 @@ Someday `PD` will write some words of wisdom here and make this look real.
 
 {% for post in site.posts %}
 * [{{ post.title }}]({{ post.url }})  
-{{ post.excerpt }}
+{{ post.excerpt | strip_html }}
 {% endfor %}
