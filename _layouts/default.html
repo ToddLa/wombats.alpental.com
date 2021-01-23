@@ -21,9 +21,9 @@
       {% for p in site.pages %}
         {% if p.title && p.dir == "/" %}
         {% if p.url == page.url %}
-          <a href="{{ p.url }}" class="btn current">{{ p.title }}</a>
+          <a href="{{ p.url | remove: '.html' }}" class="btn current">{{ p.title }}</a>
         {% else %}
-          <a href="{{ p.url }}" class="btn">{{ p.title }}</a>
+          <a href="{{ p.url | remove: '.html' }}" class="btn">{{ p.title }}</a>
         {% endif %}
         {% endif %}
       {% endfor %}
