@@ -12,5 +12,5 @@ Someday `PD` will write some words of wisdom here and make this look real.
 
 {% for post in site.posts %}
 * [{{ post.title }}]({{ post.url }})  
-{{ post.excerpt | strip_html }}
+{{ post.excerpt | strip_html  | truncatewords:75 }}
 {% endfor %}
