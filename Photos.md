@@ -1,4 +1,4 @@
-# {{ site.title }} Photos
+# Photos
 
 ## Race 1
 ![](Photos/IMG_4537.jpeg)  
@@ -20,3 +20,18 @@
     - {{ image.modified_time }}
     - {{ image.path }}
 {% endfor %}
+
+# Images (by date)
+{% for image in images | sort "modified_time" %}
+* {{ image.basename }}
+    - {{ image.modified_time }}
+    - {{ image.path }}
+{% endfor %}
+
+# Images (by date reversed)
+{% for image in images | sort "modified_time" | reverse %}
+* {{ image.basename }}
+    - {{ image.modified_time }}
+    - {{ image.path }}
+{% endfor %}
+
