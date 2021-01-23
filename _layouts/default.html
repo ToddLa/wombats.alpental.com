@@ -7,7 +7,7 @@
     {% seo %}
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" xcontent="#157878" content="#ff0000">
+    <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
   </head>
@@ -27,7 +27,6 @@
         {% endif %}
         {% endif %}
       {% endfor %}
-
     </header>
     <main id="content" class="main-content" role="main">
       {{ content }}
