@@ -11,6 +11,6 @@ Someday `PD` will write some words of wisdom here and make this look real.
 # Posts
 
 {% for post in site.posts %}
-* [{{ post.title }} - {{ page.date | date_to_string }}]({{ post.url }})  
+* [{{ post.title }} - {{ post.date | date_to_string }}]({{ post.url }})  
 {{ post.excerpt | strip_html  | truncatewords:50 }}
 {% endfor %}
