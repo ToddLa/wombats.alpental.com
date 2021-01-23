@@ -21,7 +21,7 @@
       {% for p in (site.pages | sort "url") %}
         {% if p.title && p.dir == "/" %}
         {% if p.url == page.url %}
-          <a href="{{ p.url | remove: '.html' }}" class="btn current">{{ p.title }} YYYY</a>
+          <a href="{{ p.url | remove: '.html' }}" class="btn current">[{{ p.title }}]</a>
         {% else %}
           <a href="{{ p.url | remove: '.html' }}" class="btn">{{ p.title }}</a>
         {% endif %}
