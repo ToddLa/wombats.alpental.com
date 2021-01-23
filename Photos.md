@@ -12,3 +12,11 @@
     - {{ file.modified_time }}
     - {{ file.path }}
 {% endfor %}
+
+{% assign images = site.static_files | where_exp:"file","file.path contains 'Photos/'" %}
+# Images (by name)
+{% for image in images | sort "name" %}
+* {{ image.name }}
+    - {{ image.modified_time }}
+    - {{ image.path }}
+{% endfor %}
