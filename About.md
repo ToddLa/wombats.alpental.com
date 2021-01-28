@@ -6,4 +6,4 @@ title: About
 
 The origin of **Team Wombat** is lost to the mists of time. Call [this guy](tel:+12066058127) to find out the real story.
 
-![The Captain](CptKirk.JPG)
+![The Captain](images/CptKirk.JPG)
