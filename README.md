@@ -6,7 +6,9 @@ This is a GitHub pages site using the Jekyll Cayman theme, and I hacked the `_la
 
 any other top level `Markdown` file will be shown in the nav bar, using the frontmatter `title`
 
-the `Photos` page will automaticly show all images in the `Photos/` sub directory.
+# Photos
+
+the `Photos` page will automaticly show all images in the `Photos/` sub directory.  The file name will be used as a title, unless it is IMG_####.
 
 # Posts
 
