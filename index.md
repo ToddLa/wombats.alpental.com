@@ -9,7 +9,7 @@ Welcome to the home of `TEAM WOMBAT`
 Someday `PD` will write some words of wisdom here and make this look real.
   > Don't miss your race time unless you plan to buy beer and pizza that night!
 
-![Wombats at Elks back in the day](images/Wombatsatelks.JPG)
+![Wombats at Elks back in the day](images/Wombatsatelks.JPG "Wombats at Elks once upon a time")
 
 # Posts
 
