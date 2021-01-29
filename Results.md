@@ -1,6 +1,26 @@
-# Results
+# Results [PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
 
-## 2021
+## Week 2
+
+Rank|Team|Total
+-|-|-
+1|VSM Explosion|52
+2|Czech Mates|48
+3|ADL Ski Team|39
+4|AdVenturers|38
+5|More Cow Bell|38
+6|PsychoMetrix|38
+7|Alpen Extreme|37
+8|**Wombats**|36
+9|Hazardous Wastes|33
+10|Rutbusters|32
+11|Team Aquavit|29
+12|TeamDBC|16
+
+**Wins** Guitar (1), Nick (2), Roger (1), KY (2), Mikko (0), Bannana (0)
+
+
+## Week 1
 
 |# |Team                         |Total|
 |--|-----------------------------|------|
@@ -17,5 +37,5 @@
 |11|Hazardous Wastes             |14    |
 |12|TeamDBC                      |3     |
 
-[PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
+
 
