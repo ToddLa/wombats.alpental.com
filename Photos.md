@@ -4,9 +4,6 @@
 
 {% for image in images | sort "modified_time" | reverse %}
 ![]({{ image.path }})  
-{% if image.basename contains 'IMG_' %}
-{% else %}
-**{{ image.basename }}**
-{% endif %}
+{% unless image.basename contains 'IMG_' %}*{{ image.basename }}*{% endunless %}
 {% endfor %}
 
