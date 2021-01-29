@@ -1,4 +1,5 @@
-# Results [PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
+# Results
+[PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
 
 ## Week 2
 
