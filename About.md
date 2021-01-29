@@ -10,3 +10,5 @@ The origin of **Team Wombat** is lost to the mists of time. Call [this guy](tel:
 
 
 *Our Captain... Sorry about your car, Kirk*
+
+[our core strength](https://www.iflscience.com/plants-and-animals/we-finally-know-why-wombats-poop-perfect-cubes/)
