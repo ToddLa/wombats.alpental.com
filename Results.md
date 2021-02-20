@@ -17,6 +17,7 @@ Rank|Team|Total
 10|TeamAquavit|68
 11|PsychoMetrix|62
 12|TeamDBC|40
+
 **Wins** Guitar (1), Latte (2), Hugh (1), Motorboat (0), Zach (1), RMR (0) 
 
 ## Week 4
