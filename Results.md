@@ -1,6 +1,24 @@
 # Results
 [PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
 
+## Week 5
+
+Rank|Team|Total
+-|-|-
+1|VSM Explosion|115
+2|CzechMates|113
+3|AdVenturers|107
+4|ADLSkiTeam|106
+5|Alpen Extreme|100
+6|**Wombats**|97
+7|Hazardous Wastes|92
+8|MoreCowBell|88
+9|Rutbusters|75
+10|TeamAquavit|68
+11|PsychoMetrix|62
+12|TeamDBC|40
+**Wins** Guitar (1), Latte (2), Hugh (1), Motorboat (0), Zach (1), RMR (0) 
+
 ## Week 4
 
 Rank|Team|Total
