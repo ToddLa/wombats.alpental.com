@@ -1,5 +1,24 @@
-# Results
+# Results 2020/21
 [PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
+
+## Week 6 (Final)
+
+Rank|Team|Total
+-|-|-
+1|CzechMates|137
+2|VSM Explosion|134
+3|ADLSkiTeam|129
+4|AdVenturers|118
+5|Alpen Extreme|118
+6|**Wombats**|114
+7|Hazardous Wastes|111
+8|MoreCowBell|101
+9|TeamAquavit|92
+10|Rutbusters|84
+11|PsychoMetrix|81
+12|TeamDBC|49
+
+**Wins** Bananna (2), Latte (1), Dancer (1), Hugh (0), Oak Tree (1), KY (1) 
 
 ## Week 5
 
