@@ -13,4 +13,4 @@ The origin of **Team Wombat** is lost to the mists of time. Call [this guy](tel:
 
 [our core strength](https://www.iflscience.com/plants-and-animals/we-finally-know-why-wombats-poop-perfect-cubes/)
 
-[our strategies summarized](https://www.psychologytoday.com/us/blog/animal-emotions/202011/wombats-use-rock-hard-butts-fight-flirt-and-frolic)
+[What makes Wombats dead sexy](https://www.psychologytoday.com/us/blog/animal-emotions/202011/wombats-use-rock-hard-butts-fight-flirt-and-frolic)
