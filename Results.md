@@ -1,10 +1,29 @@
-# Results 2022
+# Results
 [PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
 
 ## Week 1
 
+Rank|Team|Total
+-|-|-
+1|Hazardous Wastes|31
+2|Pole Dancers |28
+3|More Cow Bell |27
+4|ADL Ski Team |22
+5|AdVenturers |21
+6|Mad Pow Disease |18
+7|Czech Mates |17
+8|Good Turners |17
+9|Team Aquavit |17
+10|PsychoMetrix |15
+11|Terminal Velocity |12
+12|VSM Explosion |12
+13|Wright Turns Only |11
+14|Rutbusters |9
+15|**Wombats** |9
+16|Slalom Stars |8
+17|TeamDBC |7
+
 # Results 2021
-[PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
 
 ## Week 6 (Final)
 
