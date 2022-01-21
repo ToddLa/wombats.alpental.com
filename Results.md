@@ -23,6 +23,8 @@ Rank|Team|Total
 16|Slalom Stars |8
 17|TeamDBC |7
 
+**Wins** Latte (0), Paul (0), ZGS (2), Hugh (0), Tweed (0), KY (0) 
+
 # Results 2021
 
 ## Week 6 (Final)
