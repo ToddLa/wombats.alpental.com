@@ -1,4 +1,4 @@
-# Welcome to WOMBAT.APLENTAL.COM
+# Welcome to WOMBATS.APLENTAL.COM
 
 This is a GitHub pages site using the Jekyll Cayman theme, and I hacked the `_layouts/default.html` and the `assets/css/style.scss`
 
