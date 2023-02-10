@@ -1,6 +1,36 @@
 # Results
 [PDF](https://www.cityleague.com/ski/results_alpthu.pdf)
 
+# Results 2023
+
+## Week 4
+
+Rank|Team|Total
+-|-|-
+1| The White Passers |95
+2| MadPowDisease |84
+3| **Wombats** |82
+4| ADLSkiTeam |79
+5| MoreCowBell |76
+6| Hazardous Wastes |74
+7| VSMExplosion |74
+8| AlpentalPD |71
+9| CzechMates |67
+10| Wright Turns Only |62
+11| TeamDBC |61
+12| Rutbusters |60
+13| TeamAquavit |54
+14| PsychoMetrix |39
+15| Brew-Skis |32
+
+**Wins** Nick (2), Jay (2), Banana (2), Jeremy (0), Oakes (2), Roger (2)
+
+## Week 3
+## Week 2
+## Week 1
+
+# Results 2022
+
 ## Week 1
 
 Rank|Team|Total
