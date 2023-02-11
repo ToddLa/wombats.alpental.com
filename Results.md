@@ -23,7 +23,7 @@ Rank|Team|Total
 14| PsychoMetrix |39
 15| Brew-Skis |32
 
-**Wins** Nick (2), Jay (2), Banana (2), Jeremy (0), Oakes (2), Roger (2)
+**Wins** Nick (2), Jay (2), Banana (2), Jeremy (0), Oakes (2), Roger (2) , Ghost1 (0), Ghost2 (0), Ghost3 (0)
 
 ## Week 3
 ## Week 2
